@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=GR1MR34P3R-1" alt="Profile Views" />
   <a href="https://twitter.com/6R1MR34P3R1_">
     <img src="https://img.shields.io/twitter/follow/6R1MR34P3R1_.svg?style=social" alt="Twitter Follow" />
