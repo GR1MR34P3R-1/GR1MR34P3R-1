@@ -72,9 +72,6 @@
     <a href="https://github.com/GR1MR34P3R-1/LockNest" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GR1MR34P3R-1&repo=LockNest&theme=radical" width="40%" />
     </a>
-    <a href="https://github.com/GR1MR34P3R-1/QR-Fi_Connect" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GR1MR34P3R-1&repo=QR-Fi_Connect&theme=radical" width="40%" />
-    </a>
     <a href="https://github.com/GR1MR34P3R-1/DDB-DiscordDataBot" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GR1MR34P3R-1&repo=DDB-DiscordDataBot&theme=radical" width="40%" />
     </a>
