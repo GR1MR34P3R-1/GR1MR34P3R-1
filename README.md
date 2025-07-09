@@ -28,7 +28,7 @@
   <!-- About Me -->
   <h3>About Me</h3>
   <p>
-    👋 Self-taught full-stack developer since 8th grade. Passionate about learning, coding, and building fun, useful things. Mostly work with Python and JS. Built LockNest (a personal password manager) and Discord bots with modern command systems.
+    👋 Hi im Grim Reaper and in 8th grade I was Passionate about learning, coding, and building fun, useful things. Mostly work with Python and JS. Built LockNest (a personal password manager) and Discord bots with modern command systems.
   </p>
   <p>
     💻 Experience with HTML, CSS, JavaScript, PHP, Docker, and Git. No formal certs yet, but completed robotics/programming classes. Also love cooking 🍳 and retro gaming 🎮 via emulators.
